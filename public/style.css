@@ -1,0 +1,26 @@
+
+.page{
+    height: 20pc;
+    width: 20pc;
+   /* background-color: red;*/
+}
+.page form{
+   
+    padding: 5pc 5pc;
+    text-align: center;
+   align-items: center;
+    display: flex;
+   flex-direction: column;
+background-color: rgb(255, 174, 0); 
+}
+.page form input{
+    margin: 1pc 1pc 0 1pc;
+}
+.page form button{
+    margin-top: 0.6pc;
+    background-color: rgb(0, 132, 255);
+    border-radius: 10px;
+    
+}
+
+   
